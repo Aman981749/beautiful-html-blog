@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "Scrim-s07hbd": "file:",
+    "vite": "latest"
+  }
+}
